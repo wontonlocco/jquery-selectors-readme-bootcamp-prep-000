@@ -7,6 +7,9 @@ function paragraphSelector(){
 function lastImageSelector() {
   return $('img').last();
 }
+function ninjaSelector(){
+  
+}
 
 function divSelector(){
   return $('.pics');
